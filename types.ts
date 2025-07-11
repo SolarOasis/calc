@@ -17,7 +17,6 @@ export interface SeasonalAnalysis {
   spikePercentage: number;
   baseLoad: number;
   coolingLoad: number;
-  dailyAvg: number;
 }
 
 export interface SystemRecommendation {
@@ -37,5 +36,4 @@ export interface FinancialAnalysis {
   paybackPeriod: number;
   roi25Year: number;
   netMeteringCredits: number;
-  roiPercentage: number;
 }
