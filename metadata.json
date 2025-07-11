@@ -1,0 +1,5 @@
+{
+  "name": "Solar Oasis Calculator",
+  "description": "An advanced solar system calculator to analyze electricity bills, recommend optimal solar system configurations, and provide detailed financial ROI analysis including payback period, NPV, and IRR.",
+  "requestFramePermissions": []
+}
